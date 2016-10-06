@@ -22,7 +22,7 @@
 			'concave'
 		];
 		
-		selectedThemeIndex = 3;
+		selectedThemeIndex = 0;
 
 		initInstructions();
 		initKeys();
@@ -30,7 +30,7 @@
 		initThemeGestures();
 		initButtons();
 
-		selectTheme(3);
+		selectTheme(0);
 	}
 
 	function initInstructions() {
