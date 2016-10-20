@@ -23,7 +23,8 @@ var applesupplier=
     "MV (M)": "3,456",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States",
+    "URL":"http://dbpedia.org/page/Cirrus_Logic"
   },
   {
     "Type": "B",
@@ -35,7 +36,8 @@ var applesupplier=
     "MV (M)": 991,
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "Japan"
+    "Country": "Japan",
+    "URL":"http://dbpedia.org/page/Japan_Display"
   },
   {
     "Type": "O",
@@ -47,7 +49,8 @@ var applesupplier=
     "MV (M)": 290,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States"
+    "Country": "United States",
+    "URL":"http://http://dbpedia.org/page/Glu_Mobile"
   },
   {
     "Type": "O",
@@ -59,7 +62,8 @@ var applesupplier=
     "MV (M)": "2,290",
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Casinos/Gaming",
-    "Country": "Japan"
+    "Country": "Japan",
+    "URL":"http://dbpedia.org/page/Japan_Display"
   },
   {
     "Type": "O",
@@ -71,7 +75,8 @@ var applesupplier=
     "MV (M)": "8,017",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "China"
+    "Country": "China",
+    "URL":"http://dbpedia.org/page/Japan_Display"
   },
   {
     "Type": "O",
