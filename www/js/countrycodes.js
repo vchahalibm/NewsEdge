@@ -230,7 +230,7 @@ var isoCountries = {
     'UA' : 'Ukraine',
     'AE' : 'United Arab Emirates',
     'GB' : 'United Kingdom',
-    'US' : 'United States',
+    'US' : 'United States Of America',
     'UM' : 'United States Outlying Islands',
     'UY' : 'Uruguay',
     'UZ' : 'Uzbekistan',
@@ -260,4 +260,14 @@ function getCountryCode (countryName) {
     } else {
         return countryName;
     }
+}
+
+function getCountryCodeByName(name){
+	for(var i in isoCountries){
+	    var key = i;
+	    var val = isoCountries[i];
+	    if(name == val){
+	    	return key;
+	    }
+	}
 }
