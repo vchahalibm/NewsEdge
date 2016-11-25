@@ -11,7 +11,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -23,7 +23,7 @@ var applesupplier=
     "MV (M)": "3,456",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States",
+    "Country": "United States Of America",
     "URL":"http://dbpedia.org/page/Cirrus_Logic"
   },
   {
@@ -49,7 +49,7 @@ var applesupplier=
     "MV (M)": 290,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States",
+    "Country": "United States Of America",
     "URL":"http://http://dbpedia.org/page/Glu_Mobile"
   },
   {
@@ -124,7 +124,7 @@ var applesupplier=
     "MV (M)": 707,
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -160,7 +160,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -172,7 +172,7 @@ var applesupplier=
     "MV (M)": "1,298",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -184,7 +184,7 @@ var applesupplier=
     "MV (M)": "4,173",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -208,7 +208,7 @@ var applesupplier=
     "MV (M)": "69,125",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -220,7 +220,7 @@ var applesupplier=
     "MV (M)": "1,192",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -280,7 +280,7 @@ var applesupplier=
     "MV (M)": "4,471",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Production Equipment",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -316,7 +316,7 @@ var applesupplier=
     "MV (M)": 180,
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Production Equipment",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -328,7 +328,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -340,7 +340,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -352,7 +352,7 @@ var applesupplier=
     "MV (M)": 961,
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Aerospace & Defense",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -364,7 +364,7 @@ var applesupplier=
     "MV (M)": "70,155",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -484,7 +484,7 @@ var applesupplier=
     "MV (M)": "7,665",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -532,7 +532,7 @@ var applesupplier=
     "MV (M)": "35,580",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -544,7 +544,7 @@ var applesupplier=
     "MV (M)": "5,041",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -556,7 +556,7 @@ var applesupplier=
     "MV (M)": "2,085",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "B",
@@ -628,7 +628,7 @@ var applesupplier=
     "MV (M)": "150,087",
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Information Technology Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -688,7 +688,7 @@ var applesupplier=
     "MV (M)": "16,887",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Computer Peripherals",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -760,7 +760,7 @@ var applesupplier=
     "MV (M)": "99,103",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Telecommunications Equipment",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -772,7 +772,7 @@ var applesupplier=
     "MV (M)": "179,873",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -820,7 +820,7 @@ var applesupplier=
     "MV (M)": "11,395",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Computer Peripherals",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -880,7 +880,7 @@ var applesupplier=
     "MV (M)": "2,342",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Computer Peripherals",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -940,7 +940,7 @@ var applesupplier=
     "MV (M)": "1,432",
     "FactSet Sector": "Commercial Services",
     "FactSet Industry": "Commercial Printing/Forms",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -964,7 +964,7 @@ var applesupplier=
     "MV (M)": "103,437",
     "FactSet Sector": "Producer Manufacturing",
     "FactSet Industry": "Industrial Conglomerates",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -988,7 +988,7 @@ var applesupplier=
     "MV (M)": "6,122",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1012,7 +1012,7 @@ var applesupplier=
     "MV (M)": "20,024",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1036,7 +1036,7 @@ var applesupplier=
     "MV (M)": "19,500",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1180,7 +1180,7 @@ var applesupplier=
     "MV (M)": "24,688",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1240,7 +1240,7 @@ var applesupplier=
     "MV (M)": "1,024",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1408,7 +1408,7 @@ var applesupplier=
     "MV (M)": "3,023",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1456,7 +1456,7 @@ var applesupplier=
     "MV (M)": 169,
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1504,7 +1504,7 @@ var applesupplier=
     "MV (M)": "14,616",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1528,7 +1528,7 @@ var applesupplier=
     "MV (M)": "10,969",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1540,7 +1540,7 @@ var applesupplier=
     "MV (M)": "18,172",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1612,7 +1612,7 @@ var applesupplier=
     "MV (M)": "35,899",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1624,7 +1624,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1660,7 +1660,7 @@ var applesupplier=
     "MV (M)": "7,165",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1828,7 +1828,7 @@ var applesupplier=
     "MV (M)": "15,028",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1852,7 +1852,7 @@ var applesupplier=
     "MV (M)": "18,304",
     "FactSet Sector": "Consumer Durables",
     "FactSet Industry": "Tools & Hardware",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1948,7 +1948,7 @@ var applesupplier=
     "MV (M)": "22,670",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -1984,7 +1984,7 @@ var applesupplier=
     "MV (M)": "2,486",
     "FactSet Sector": "Process Industries",
     "FactSet Industry": "Industrial Specialties",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2068,7 +2068,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Commercial Services",
     "FactSet Industry": "Miscellaneous Commercial Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2092,7 +2092,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Production Equipment",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2140,7 +2140,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Process Industries",
     "FactSet Industry": "Chemicals: Specialty",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2176,7 +2176,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2296,7 +2296,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Process Industries",
     "FactSet Industry": "Chemicals: Specialty",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2344,7 +2344,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "--",
     "FactSet Industry": "--",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2416,7 +2416,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Producer Manufacturing",
     "FactSet Industry": "Miscellaneous Manufacturing",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2428,7 +2428,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Producer Manufacturing",
     "FactSet Industry": "Metal Fabrication",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2488,7 +2488,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Semiconductors",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2536,7 +2536,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Commercial Services",
     "FactSet Industry": "Commercial Printing/Forms",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "T",
@@ -2608,7 +2608,7 @@ var applesupplier=
     "MV (M)": "5,879",
     "FactSet Sector": "Consumer Durables",
     "FactSet Industry": "Electronics/Appliances",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2680,7 +2680,7 @@ var applesupplier=
     "MV (M)": "24,797",
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Media Conglomerates",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2692,7 +2692,7 @@ var applesupplier=
     "MV (M)": 194,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2704,7 +2704,7 @@ var applesupplier=
     "MV (M)": 301,
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Computer Communications",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2764,7 +2764,7 @@ var applesupplier=
     "MV (M)": 10,
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Movies/Entertainment",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2788,7 +2788,7 @@ var applesupplier=
     "MV (M)": "9,664",
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2812,7 +2812,7 @@ var applesupplier=
     "MV (M)": "3,920",
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Information Technology Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2824,7 +2824,7 @@ var applesupplier=
     "MV (M)": 185,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Packaged Software",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2872,7 +2872,7 @@ var applesupplier=
     "MV (M)": "14,615",
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Media Conglomerates",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2896,7 +2896,7 @@ var applesupplier=
     "MV (M)": "61,730",
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Media Conglomerates",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2920,7 +2920,7 @@ var applesupplier=
     "MV (M)": "1,988",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Equipment/Instruments",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2944,7 +2944,7 @@ var applesupplier=
     "MV (M)": 47,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Packaged Software",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -2968,7 +2968,7 @@ var applesupplier=
     "MV (M)": "1,813",
     "FactSet Sector": "Commercial Services",
     "FactSet Industry": "Miscellaneous Commercial Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3004,7 +3004,7 @@ var applesupplier=
     "MV (M)": "1,523",
     "FactSet Sector": "Utilities",
     "FactSet Industry": "Water Utilities",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3028,7 +3028,7 @@ var applesupplier=
     "MV (M)": 6,
     "FactSet Sector": "Commercial Services",
     "FactSet Industry": "Miscellaneous Commercial Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3040,7 +3040,7 @@ var applesupplier=
     "MV (M)": "1,983",
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Other Consumer Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3076,7 +3076,7 @@ var applesupplier=
     "MV (M)": 19,
     "FactSet Sector": "Commercial Services",
     "FactSet Industry": "Miscellaneous Commercial Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3124,7 +3124,7 @@ var applesupplier=
     "MV (M)": 4,
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Computer Peripherals",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3148,7 +3148,7 @@ var applesupplier=
     "MV (M)": 416,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3208,7 +3208,7 @@ var applesupplier=
     "MV (M)": "1,178",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Aerospace & Defense",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3256,7 +3256,7 @@ var applesupplier=
     "MV (M)": "4,310",
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Data Processing Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3268,7 +3268,7 @@ var applesupplier=
     "MV (M)": "3,949",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Components",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3292,7 +3292,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Equipment/Instruments",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3304,7 +3304,7 @@ var applesupplier=
     "MV (M)": 144,
     "FactSet Sector": "Producer Manufacturing",
     "FactSet Industry": "Industrial Machinery",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3316,7 +3316,7 @@ var applesupplier=
     "MV (M)": "10,005",
     "FactSet Sector": "Consumer Durables",
     "FactSet Industry": "Recreational Products",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3352,7 +3352,7 @@ var applesupplier=
     "MV (M)": 63,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Data Processing Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3376,7 +3376,7 @@ var applesupplier=
     "MV (M)": "3,036",
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Publishing: Books/Magazines",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3448,7 +3448,7 @@ var applesupplier=
     "MV (M)": 304,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3460,7 +3460,7 @@ var applesupplier=
     "MV (M)": "3,129",
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Movies/Entertainment",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3472,7 +3472,7 @@ var applesupplier=
     "MV (M)": 87,
     "FactSet Sector": "Process Industries",
     "FactSet Industry": "Industrial Specialties",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3484,7 +3484,7 @@ var applesupplier=
     "MV (M)": 581,
     "FactSet Sector": "Commercial Services",
     "FactSet Industry": "Advertising/Marketing Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3508,7 +3508,7 @@ var applesupplier=
     "MV (M)": "--",
     "FactSet Sector": "Commercial Services",
     "FactSet Industry": "Advertising/Marketing Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3544,7 +3544,7 @@ var applesupplier=
     "MV (M)": 875,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Packaged Software",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3568,7 +3568,7 @@ var applesupplier=
     "MV (M)": "8,142",
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Publishing: Newspapers",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3580,7 +3580,7 @@ var applesupplier=
     "MV (M)": 61,
     "FactSet Sector": "Process Industries",
     "FactSet Industry": "Industrial Specialties",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3604,7 +3604,7 @@ var applesupplier=
     "MV (M)": "1,273",
     "FactSet Sector": "Electronic Technology",
     "FactSet Industry": "Electronic Equipment/Instruments",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3664,7 +3664,7 @@ var applesupplier=
     "MV (M)": 174,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3700,7 +3700,7 @@ var applesupplier=
     "MV (M)": "8,812",
     "FactSet Sector": "Process Industries",
     "FactSet Industry": "Containers/Packaging",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3724,7 +3724,7 @@ var applesupplier=
     "MV (M)": "1,129",
     "FactSet Sector": "Producer Manufacturing",
     "FactSet Industry": "Miscellaneous Manufacturing",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3772,7 +3772,7 @@ var applesupplier=
     "MV (M)": 225,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3784,7 +3784,7 @@ var applesupplier=
     "MV (M)": "8,695",
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Data Processing Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3844,7 +3844,7 @@ var applesupplier=
     "MV (M)": 0,
     "FactSet Sector": "Technology Services",
     "FactSet Industry": "Internet Software/Services",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3868,7 +3868,7 @@ var applesupplier=
     "MV (M)": "1,564",
     "FactSet Sector": "Consumer Services",
     "FactSet Industry": "Movies/Entertainment",
-    "Country": "United States"
+    "Country": "United States Of America"
   },
   {
     "Type": "O",
@@ -3880,7 +3880,7 @@ var applesupplier=
     "MV (M)": 0,
     "FactSet Sector": "Consumer Durables",
     "FactSet Industry": "Recreational Products",
-    "Country": "United States"
+    "Country": "United States Of America"
   }
 ]
 
