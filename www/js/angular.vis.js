@@ -3063,98 +3063,98 @@ var app = angular.module('AnalyticsSolutionsApp', ['ngAnimate']);
                             "sepalWidth":10000,
                             "petalLength":70,
                             "petalWidth":0.2,
-                            "species":"PCO"
+                            "species":"Option1 (Communication Setup)"
                           },
                           {
                             "sepalLength":200,
                             "sepalWidth":15000,
                             "petalLength":100,
                             "petalWidth":0.2,
-                            "species":"Playstation"
+                            "species":"Option2 (Games Renting)"
                           },
                           {
                             "sepalLength":500,
                             "sepalWidth":100000,
                             "petalLength":33,
                             "petalWidth":0.2,
-                            "species":"GroceryStore"
+                            "species":"Option3 (GroceryStore)"
                           },
                           {
                             "sepalLength":200,
                             "sepalWidth":25000,
                             "petalLength":55,
                             "petalWidth":0.2,
-                            "species":"Carpentry"
+                            "species":"Option4 (Carpentry)"
                           },
                           {
                             "sepalLength":300,
                             "sepalWidth":25000,
                             "petalLength":50,
                             "petalWidth":0.2,
-                            "species":"Tailoring"
+                            "species":"Option5 (Tailoring)"
                           },
                           {
                             "sepalLength":1000,
                             "sepalWidth":100000,
                             "petalLength":40,
                             "petalWidth":0.4,
-                            "species":"Mechanic"
+                            "species":"Option6 (Mechanic)"
                           },
                           {
                             "sepalLength":800,
                             "sepalWidth":80000,
                             "petalLength":35,
                             "petalWidth":0.3,
-                            "species":"Catering"
+                            "species":"Option7 (Catering)"
                           },
                           {
                             "sepalLength":600,
                             "sepalWidth":40000,
                             "petalLength":28,
                             "petalWidth":0.2,
-                            "species":"Beauty Parlor"
+                            "species":"Option8 (Beauty Parlor)"
                           },
                           {
                             "sepalLength":300,
                             "sepalWidth":65000,
                             "petalLength":38,
                             "petalWidth":0.2,
-                            "species":"Packing"
+                            "species":"Option9 (Packing)"
                           },
                           {
                             "sepalLength":100,
                             "sepalWidth":85000,
                             "petalLength":26,
                             "petalWidth":0.2,
-                            "species":"Stationary"
+                            "species":"Option10 (Stationary)"
                           },
                           {
                             "sepalLength":400,
                             "sepalWidth":45000,
                             "petalLength":32,
                             "petalWidth":0.2,
-                            "species":"Music Classes"
+                            "species":"Option11 (Music Classes)"
                           },
                           {
                             "sepalLength":250,
                             "sepalWidth":35000,
                             "petalLength":57,
                             "petalWidth":0.1,
-                            "species":"Weaving"
+                            "species":"Option12 (Weaving)"
                           },
                           {
                             "sepalLength":300,
                             "sepalWidth":55000,
                             "petalLength":31,
                             "petalWidth":0.1,
-                            "species":"Creche"
+                            "species":"Option13 (Creche)"
                           },
                           {
                             "sepalLength":700,
                             "sepalWidth":75000,
                             "petalLength":21,
                             "petalWidth":0.2,
-                            "species":"Tution Center"
+                            "species":"Option14 (Tution Center)"
                           }
                         ]; 
                         update = false;
